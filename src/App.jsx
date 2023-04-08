@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
         combined the build and deploy script!
+        Now testing git subtree commands!
       </p>
     </div>
   )
